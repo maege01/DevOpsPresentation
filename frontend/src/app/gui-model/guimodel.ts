@@ -1504,15 +1504,7 @@ export class GuiModel {
                             "width": 2,
                             "newRow": true,
                         },
-                        {
-                            "type": "button",
-                            "name": { default: "Umfrage" },
-                            "icon": "fa-file-alt",
-                            "color": "green",
-                            "page": "questionnairesPage",
-                            "width": 2,
-                            "newRow": true,
-                        },
+                 
                     ]
                 },
                 {
